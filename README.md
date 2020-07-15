@@ -1,9 +1,6 @@
-
 <h1><a href='https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/' target='_blank'>REST API with MVVM and Retrofit2</a></h1>
-<h3><a href='https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/demo/' target='_blank'>Watch the app demo</a>.</h3>
-
 <br>
-In this course you'll learn how to interact with a REST API from <a href="Food2Fork.com" target="_blank" rel="nofollow">Food2Fork.com</a>. The app will retrieve information from the website and display it in various view types. 
+In this Aoo you'll show how to interact with a REST API from heroku server . The app will retrieve information from the website and display it in various view types. 
 <br><br>
 <strong>Here's the specifics of what you will see in the course:</strong>
 <br><br>
@@ -31,10 +28,5 @@ In this course you'll learn how to interact with a REST API from <a href="Food2F
 </ol>
 <br>
 
-<strong>Architecture Diagram</strong>
-<br><br>
-<div class="text-center">
-<img class="img-fluid text-center" src="https://codingwithmitch.s3.amazonaws.com/static/blog/8/mvvm_architecture.png"/>
-</div>
-<br><br>
+
 
