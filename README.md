@@ -1,4 +1,4 @@
-<h1><a href='https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/' target='_blank'>REST API with MVVM and Retrofit2</a></h1>
+<h1>REST API with MVVM and Retrofit2</h1>
 <br>
 In this App you'll show how to interact with a REST API from heroku server . The app will retrieve information from the website and display it in various view types. 
 <br><br>
