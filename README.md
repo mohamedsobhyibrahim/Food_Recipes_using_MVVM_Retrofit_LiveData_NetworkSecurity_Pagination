@@ -1,4 +1,3 @@
-<a href='https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/' target='_blank'><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/rest-api-mvvm-retrofit2/images/mvvm_2.png' /></a>
 
 <h1><a href='https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/' target='_blank'>REST API with MVVM and Retrofit2</a></h1>
 <h3><a href='https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/demo/' target='_blank'>Watch the app demo</a>.</h3>
