@@ -44,4 +44,3 @@ To get more help on the project, you can contact with me by email address m7md.s
 
 This project created on 2020, some libraries or code might be depreciated.
 
-
